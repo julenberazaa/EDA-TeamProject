@@ -4,7 +4,7 @@ using System.Diagnostics;
 namespace CompareLists
 {
     class MainClass
-    {
+    {//hello
         public static void Main(string[] args)
         {
             StatsUpdater statsUpdater = new StatsUpdater();
